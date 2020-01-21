@@ -1,2 +1,2 @@
 #wifi
-open wifi
+#open wifi
